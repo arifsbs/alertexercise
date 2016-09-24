@@ -6,4 +6,4 @@
 
    mvn clean compile test
 
-3. New steps will follow   
+3. New steps will follow. WIP   
