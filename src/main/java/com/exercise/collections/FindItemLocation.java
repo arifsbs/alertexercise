@@ -2,6 +2,7 @@ package com.exercise.collections;
 
 import org.apache.commons.lang.ArrayUtils;
 
+//This class find items
 public class FindItemLocation {
 
 	public static void main(String[] args)  {
